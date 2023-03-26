@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco D'Angolo
-- 📚 I'm studying in Politecninco di Torino
-- 🌱 I’m currently in the second year of Computer Science
+- 📚 I'm studying at Politecninco di Torino
+- 🌱 I’m currently in the second year of Computer Engineering
 - 📫 How to reach me: dangolofrancesco@gmail.com
 
 <!---
